@@ -17,13 +17,13 @@ box = "Python is the legend."
 # full = f"{first} {last}"
 # print(full)
 
-print(box.upper())
+# print(box.upper())
 # print(box.find("hero"))
 
-x = 1
-x = 1.1
-print(round(x))
-print(math.ceil(2.2))
-a = input("x: ")
-y = int(a) + 15
-print(y)
+# x = 1
+# x = 1.1
+# print(round(x))
+# print(math.ceil(2.2))
+# a = input("x: ")
+# y = int(a) + 15
+# print(y)
